@@ -1,12 +1,3 @@
----
-title: README
-emoji: 👀
-colorFrom: green
-colorTo: yellow
-sdk: static
-pinned: false
----
-
 We are a group of people training music LLMs~ 🔥
 
 The development log of our Music Audio Pre-training (m-a-p) model family:
